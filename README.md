@@ -1,8 +1,10 @@
 # ROS2 Humble Hawksbill Installation Script
-<p>Follow the steps to install ROS2 on your system using the script.</p>
+<p>Enter the following commands into a terminal to install <b>ROS2 Humble Hawksbill</b> on your system using the script.</p>
 
-1. chmod +x install.sh
-2. sudo chmod 777 install.sh
-3. ./install.sh
+```
+chmod +x install.sh
+sudo chmod 777 install.sh
+./install.sh
+```
 
 > If you find any problem then please report issues and I will fix it as soon as possible.
