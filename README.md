@@ -1,5 +1,18 @@
 # ROS2 Humble Hawksbill Installation Script
-<p>Enter the following commands into a terminal to install <b>ROS2 Humble Hawksbill</b> on your system using the script.</p>
+<p>
+Clone the repository using the following command:
+</p>
+
+```
+git clone https://github.com/CodeNyxCode/ROS2Installation
+cd ROS2Installation
+```
+
+_______________
+
+<p>
+Enter the following commands into a terminal to install <b>ROS2 Humble Hawksbill</b> on your system using the script.
+</p>
 
 ```
 chmod +x install.sh
