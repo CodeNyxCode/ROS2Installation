@@ -82,6 +82,7 @@ echo "                                                                         "
 
 printf "\n[!] Adding setup file to .bashrc ...\n"
 echo ". ~/ros2_humble/install/local_setup.bash" > ~/.bashrc
+source ~/.bashrc
 
 
 echo "██████   ██████  ███    ██ ███████     ██ ";
